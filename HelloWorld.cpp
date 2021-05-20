@@ -1,5 +1,6 @@
 // Simple C++ program to display "Hello World" 
-  
+ // Author: Viona Veseli <gj6645@wayne.edu>
+ 
 // Header file for input output functions 
 
 //Adding comments for fun and conflict
